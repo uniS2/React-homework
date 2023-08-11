@@ -1,0 +1,24 @@
+#root {
+  /* flex */
+  display : inline-flex;
+  flex-direction: column;
+  gap: 3rem;
+  /* 위치 설정 */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+button {
+  
+  /* 크기 설정 */
+  width: 11.125rem;
+  height: 2.9375rem;
+  border-radius: 0.25rem;
+  border: none;
+  /* 글자 설정 */
+  text-align: center;
+  font-weight: 700;
+  font-size: 0.9375rem;
+}

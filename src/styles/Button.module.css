@@ -1,0 +1,26 @@
+:root {
+  --primary-color: #1E92FF;
+  --white-color: #FFFFFF;
+}
+
+.primary {
+  background: var(--primary-color);
+  color: var(--white-color);
+}
+
+.secondary {
+  background: var(--white-color);
+  color: var(--primary-color);
+}
+
+.none {
+  border: none;
+}
+
+.light {
+  border: 1px solid var(--primary-color);
+}
+
+.heavy {
+  border: 0.25rem dashed var(--primary-color);
+}
