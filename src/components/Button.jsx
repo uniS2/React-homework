@@ -8,11 +8,9 @@ function Button({ children, episode, border }) {
       : episode === "continue" ? styles.light : styles.heavy;
 
   return (
-    <>
       <button type="button" className={`${episodeStyle} ${borderStyle}`}>
         {children}
       </button>
-    </>
   );
 }
 
