@@ -23,8 +23,8 @@ function BookDetailPage() {
   return (
     <div className="flex justify-center">
       <BookProfile />
-      {/* <BookHome /> */}
-      <BookIntroduction />
+      <BookHome />
+      {/* <BookIntroduction /> */}
     </div>
   );
 }
