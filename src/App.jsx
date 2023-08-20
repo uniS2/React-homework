@@ -1,13 +1,15 @@
-import Button from "./components/Button"
+import Header from "./layout/Header";
+import BookDetailPage from "./pages/BookDetailPage";
+import Footer from "./layout/Footer";
 
 function App() {
   return (
     <>
-      <Button episode="first" border="none">첫화보기</Button>
-      <Button episode="continue" border="light">이어보기</Button>
-      <Button episode="next" border="heavy">다음화보기</Button>
+      <Header />
+      <BookDetailPage />
+      <Footer />
     </>
-  )
+  );
 }
 
-export default App
+export default App;

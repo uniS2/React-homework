@@ -1,0 +1,26 @@
+{
+  "book": [
+    {
+      "id": 1,
+      "title": "옷소매 붉은 끝동",
+      "profile": "https://dn-img-page.kakao.com/download/resource?kid=DsGuW/hzb7rYf20v/hDwF99BDlPgiXCo3L4JlF0&filename=th3",
+      "bookDetail": "https://dn-img-page.kakao.com/download/resource?kid=d0Rp3/hyfOFM4HIL/BMJ1zknDmqJeK8oez5idc0&filename=th3",
+      "webtoon": "https://dn-img-page.kakao.com/download/resource?kid=bOyDCo/hzacg5CXX0/gdBIDdYUr1uVxw5DYlMQ40&filename=th3",
+      "view": 8673000,
+      "rate": 10.0,
+      "type": "웹소설",
+      "genre": "로맨스",
+      "status": "완결",
+      "author": "강미강",
+      "totalEpisode": 126,
+      "date": "2017.09.29",
+      "detail": "도깨비보다 무섭다는 왕이 있었다. 가늘고 길게 살고픈 궁녀도 있었다. 이상스레 서로가 눈에 거슬렸다. 그래서 다가섰다. 그래도 다가서지 않았다. 어렵고 애매한 한 발자국씩을 나누며 습관처럼 제자리를 지켰다. 알쏭달쏭한 시절은 기쁨과 배신으로 어지러이 물들어 이지러지고, 이별과 재회는 어색한 질투와 상실감을 동반하였다. 잊은 척은 할 수 있어도 잊을 수는 없었다. 이윽고 무너진 감정의 둑은 운명을 뒤흔들 홍수가 되었다. “내 천성을 거스르면서까지 너를 마음에 두었다. 그래서 너여야만 한다.” 하지만 선뜻 붙잡지 못할 붉은 옷소매가 달콤할 수만은 없고, 오히려 그 끝동은 오래도록 별러온 양 새침하게 밀고 당길 따름이었다."
+    }
+  ],
+  "user": [
+    {
+      "id": "uniS2",
+      "profile": "uniS2.jpg"
+    }
+  ]
+}
